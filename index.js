@@ -9,5 +9,5 @@ let mod =(num3%= num4)
 const random = 5
 
 let max = 20
-max.math(0,20)
+const ans = Math.max(0,20)
 
